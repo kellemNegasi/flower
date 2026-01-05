@@ -36,6 +36,7 @@ from .fedxgb_cyclic import FedXgbCyclic
 from .fedyogi import FedYogi
 from .krum import Krum
 from .multikrum import MultiKrum
+from .power_of_choice import PowerOfChoice
 from .qfedavg import QFedAvg
 from .result import Result
 from .strategy import Strategy
@@ -58,6 +59,7 @@ __all__ = [
     "FedYogi",
     "Krum",
     "MultiKrum",
+    "PowerOfChoice",
     "QFedAvg",
     "Result",
     "Strategy",
